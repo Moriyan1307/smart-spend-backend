@@ -1,0 +1,15 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+
+/node_modules
+.DS_Store
+*.pem
+
+
+# local env files
+.env*.local
+*.env
